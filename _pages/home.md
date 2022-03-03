@@ -69,7 +69,7 @@ To this end, we conduct research to answer the scientific questions we deem most
 
 
 <figure class="fourth">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 120px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRL.png" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MU.jpg" style="width: 160px">
 </figure>
