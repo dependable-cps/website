@@ -62,7 +62,7 @@ We are grateful for funding from National Science Foundation (NSF), United State
 
 
 <figure class="fourth">
-  <img src="{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px">
-  <img src="{{ site.baseurl }}/images/logopic/Logo_NRL.png" style="width: 110px">
-    <img src="{{ site.baseurl }}/images/logopic/Logo_MU.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRL.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MU.jpg" style="width: 110px">
 </figure>
