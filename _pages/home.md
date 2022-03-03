@@ -55,7 +55,14 @@ The research mission of Dependable Cyber-Physical Systems (DCPS) Laboratory is t
 
 
 
-To this end, we conduct research to answer the scientific questions we deem most important related to formal verification in robotics, safe, secure, and energy-efficient ML/AI hardware, secure prognostics, and cybersecurity issues in virtual reality (VR) applications (see [Research](research)).
+To this end, we conduct research to answer the scientific questions we deem most important, specifically in the following areas (see [Research](research)).
+
+<ul style="list-style-type:disc;">
+<li>Formal method in robotics and automation</li>
+<li>Fault tolerant, secure and energy-efficient ML/AI hardware </li>    
+<li>Cybersecurity issues in virtual reality (VR) applications.</li>
+<li>Cybersecurity issues in intelligent prognostics.  </li>    
+</ul>
 
 
 We are grateful for funding from National Science Foundation (NSF), United States Naval Research Laboratory (NRL) and University of Missouri.
@@ -63,6 +70,6 @@ We are grateful for funding from National Science Foundation (NSF), United State
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRL.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MU.jpg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRL.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MU.jpg" style="width: 160px">
 </figure>
