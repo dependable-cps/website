@@ -8,16 +8,35 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Ernest Bonnah
+  photo: Ernest.jpg
+  info: PhD student
+  email: eb7z3@umsystem.edu
+  number_educ: 3
+  education1: PhD in Computer Science and Communication Engineering, Jiangsu University, China
+  education2: MSc in Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, Ghana
+  education3: BSc in Computer Engineering, Kwame Nkrumah University of Science and Technology, Ghana
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Ayesha Siddique
+  photo: Ayesha.jpg
+  info: PhD student
+  email: asgr5@umsystem.edu
+  number_educ: 2
+  education1: MSc in Electrical Engineering, National University of Sciences and Technology, Pakistan
+  education2: BSc in Electrical Engineering, Army Public College of Management and Sciences, Pakistan
+
+- name: Ripan Kumar Kundu
+  photo: Ripan.jpg
+  info: PhD student
+  email: rkcgc@missouri.edu
+  number_educ: 2
+  education1: MSc in Electrical Engineering, University of Rostock, Germany
+  education2: BSc in Electrical and Electronics Engineering, American International University-Bangladesh, Bangladesh
+  
+  - name: Syed Tihaam Ahmad
+  photo: Tiham.jpg
+  info: PhD student
+  email: tawm9@umsystem.edu
+  number_educ: 1
+  education1: BSc in Electrical Engineering, Army Public College of Management and Sciences, Pakistan
+  
