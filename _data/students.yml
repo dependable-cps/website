@@ -8,22 +8,30 @@
 #  education3:
 #  education4:
 
-- name: Ernest Bonnah (Spring 2020)
+- name: Ernest Bonnah
   photo: Ernest.jpg
-  info: PhD student
+  info: PhD student (Spring 2020-date)
   email: eb7z3@umsystem.edu
   number_educ: 3
   education1: PhD in Computer Science and Communication Engineering, Jiangsu University, China
   education2: MSc in Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, Ghana
   education3: BSc in Computer Engineering, Kwame Nkrumah University of Science and Technology, Ghana
 
-- name: Ayesha Siddique (Spring 2020)
+- name: Ayesha Siddique
   photo: Ayesha.jpeg
-  info: PhD student
+  info: PhD student (Spring 2020-date)
   email: asgr5@umsystem.edu
   number_educ: 2
   education1: MSc in Electrical Engineering, National University of Sciences and Technology, Pakistan
   education2: BSc in Electrical Engineering, Army Public College of Management and Sciences, Pakistan
+  
+- name: Ayesha Siddique
+  photo: Ayesha.jpeg
+  info: PhD student (Spring 2020-date)
+  email: asgr5@umsystem.edu
+  number_educ: 2
+  education1: MSc in Electrical Engineering, National University of Sciences and Technology, Pakistan
+  education2: BSc in Electrical Engineering, Army Public College of Management and Sciences, Pakistan  
   
 
   
