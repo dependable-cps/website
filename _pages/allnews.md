@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Dependable Cyber-Physical Systems (DCPS) Laboratory."
 sitemap: false
 permalink: /allnews.html
 ---
