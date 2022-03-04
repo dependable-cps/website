@@ -6,11 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
-
-
+(For a full list of publications and patents see below or go to [Google Scholar](https://scholar.google.com/citations?user=eJ87TzoAAAAJ&hl=en))
 <script src="https://bibbase.org/show?bib=diner007.github.io%2Fref.bib&jsonp=1"></script>
 
 
