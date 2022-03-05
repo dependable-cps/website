@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [director](#director), [students](#graduate_and undergraduate students), [alumni](#alumni), [lab visitors](#former visitors and internship students).
+Jump to [director](#director), [students](#graduate and undergraduate students), [alumni](#alumni), [lab visitors](#former visitors and internship students).
 
 ## Director
 {% assign number_printed = 0 %}
@@ -75,7 +75,7 @@ Jump to [director](#director), [students](#graduate_and undergraduate students),
 
 
 
-## Graduate_and Undergraduate Students
+## Graduate and Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
