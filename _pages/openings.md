@@ -25,7 +25,7 @@ Requirements:
 
 3. Strong programming skills (C/C++, Python) is required. Good understanding of graph theory, dynamic programming, machine learning and optimization techniques are also mandatory.
 
-The interested candidates are suggested to send an email to Dr. Hoque including (1) an email that expresses your interest to the specific research topic, and demonstrate how you meet the above-mentioned requirements, and (2) your curriculum vitae, including a list of publications (if any).
+The interested candidates are suggested to send an email to Prof. Hoque including (1) an email that expresses your interest to the specific research topic, and demonstrate how you meet the above-mentioned requirements, and (2) your curriculum vitae, including a list of publications (if any).
 
 Note: Due to large volume of emails, I cannot reply to every email, but I will do my best to reply to competitive applicants.
 
