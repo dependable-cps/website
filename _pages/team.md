@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# DCPS Lab Members
 
 Jump to [director](#director), [students](#graduate and undergraduate students), [alumni](#alumni), [lab visitors](#former visitors and internship students).
 
