@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [director](#director), [students](#students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [director](#director), [students](#students), [alumni](#alumni), [lab visitors](#lab-visitors).
 
 ## Director
 {% assign number_printed = 0 %}
@@ -163,19 +163,12 @@ Jump to [director](#director), [students](#students), [alumni](#alumni), [admini
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former visitors and Internship Students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
@@ -187,8 +180,11 @@ Jump to [director](#director), [students](#students), [alumni](#alumni), [admini
 {% endfor %}
 </div>
 
+<div class="col-sm-4 clearfix">
+<h4>High School Students</h4>
+{% for member in site.data.alumni_msc %}
+{{ member.name }}
+{% endfor %}
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+</div>
