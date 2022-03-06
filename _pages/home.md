@@ -57,5 +57,5 @@ To this end, we conduct research to answer the scientific questions we deem most
 </ul>
 
 
-<br>We are grateful for funding from National Science Foundation (NSF), United States Naval Research Laboratory (NRL), and University of Missouri.
+<br> DCPS lab is directed by Prof. [Khaza Anuarul Hoque](www.kahoque.com) and located in the F. Robert & Patricia Naka Hall building at University of Missouri-Columbia. We are grateful for funding from National Science Foundation (NSF), United States Naval Research Laboratory (NRL), and University of Missouri.
 
