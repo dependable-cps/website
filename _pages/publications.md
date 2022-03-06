@@ -1,6 +1,6 @@
 ---
 title: "DCPS Lab - Publications"
-layout: homelay
+layout: publay
 excerpt: "DCPS Lab -- Publications."
 sitemap: false
 permalink: /publications/
