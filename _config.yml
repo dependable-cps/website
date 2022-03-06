@@ -10,8 +10,8 @@ title: The DCPS Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the DCPS Lab.
-baseurl: "/website"
-url: "www.dcpslab.com"
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
