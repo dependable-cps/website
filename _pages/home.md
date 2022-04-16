@@ -32,7 +32,9 @@ The research mission of Dependable Cyber-Physical Systems (DCPS) Laboratory is t
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic3.png" alt="Slide 3" />
         </div>
-       
+       <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic4.jpg" alt="Ramadan Iftaar 2022" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
