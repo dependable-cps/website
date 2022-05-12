@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**Update 1: We might have an opening in Fall 2023 related to our 'Formal method in robotics' project. We are looking for a potential candidate who has the background/research experience in temporal logic (LTL, STL, Hyperproperties) and optimization with strong programming skills. Feel free to get in touch if this matches your background.
+**Update 1: We will have an opening in Fall 2023 related to our 'Formal method in robotics' project. We are looking for a potential candidate who has the background/research experience in temporal logic (LTL, STL, Hyperproperties) and optimization with strong programming skills. Feel free to get in touch if this matches your background.**
 
 **Note: We recently finished hiring new PhD students and currently don't have funding for additional/new PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. New positions are updated on this page, so please check again in the future**
 
