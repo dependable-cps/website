@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The research mission of Dependable Cyber-Physical Systems (DCPS) Laboratory is to develop theory, methods, and tools for supporting modeling, design, and (formal) verification of highly dependable embedded and cyber-physical systems (CPS). Specifically, the goal of DCPS lab is to enhance the reliability, safety, security and energy efficiency of complex computing systems.
+The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anuarul Hoque](https://www.kahoque.com) and located in the F. Robert & Patricia Naka Hall building at University of Missouri-Columbia. The research mission of the DCPS Laboratory is to develop theory, methods, and tools for supporting modeling, design, and (formal) verification of highly dependable embedded and cyber-physical systems (CPS). Specifically, the goal of DCPS lab is to enhance the reliability, safety, security and energy efficiency of complex computing systems.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -59,5 +59,5 @@ To this end, we conduct research to answer the scientific questions we deem most
 </ul>
 
 
-<br> DCPS lab is directed by Prof. [Khaza Anuarul Hoque](https://www.kahoque.com) and located in the F. Robert & Patricia Naka Hall building at University of Missouri-Columbia. We are grateful for funding from National Science Foundation (NSF), United States Naval Research Laboratory (NRL), and University of Missouri.
+<br> We are grateful for funding from National Science Foundation (NSF), United States Naval Research Laboratory (NRL), and University of Missouri.
 
