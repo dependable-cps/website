@@ -49,7 +49,7 @@ The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anu
 
 
 
-To this end, we conduct research to answer the scientific questions we deem most important, specifically in the following areas (see [Research](research)).
+To this end, we conduct <b> interdisciplinary research </b> to answer the scientific questions we deem most important, specifically in the following areas (see [Research](research)).
 
 <ul style="list-style-type:disc;">
 <li>Formal method in robotics and automation.</li>
