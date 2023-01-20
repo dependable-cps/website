@@ -1,10 +1,23 @@
+- date: January 2023
+  headline: "Our paper titled 'Exposing Reliability Degradation and Mitigation in Approximate DNNs under Permanent Faults' has been accepted for publication in the IEEE Transactions on Very Large Scale Integration (VLSI) Systems Journal (IF 2.775).
+  <br> See [Preprint](https://arxiv.org/abs/2301.07484)."
+
+- date: January 2023
+  headline: "Our paper titled 'VR-LENS: Super Learning-based Cybersickness Detection and Explainable AI-Guided Deployment in Virtual Reality' has been accepted for publication in the annual ACM Conference on Intelligent User Interfaces (AM IUI) conference (core rank A).
+  <br> Preprint will be available soon."
+
+- date: December 2022
+  headline: "Our paper titled 'LiteVR: Interpretable and Lightweight Cybersickness Detection using Explainable AI' has been accepted for publication in the IEEE Virtual Reality (IEEE VR) conference (core rank A*).
+  <br> Preprint will be available soon."
+
 - date: November 2022
   headline: "Two papers from our lab have been accepted in the Design, Automation and Test in Europe (DATE 2023) Conference titled 'Improving Reliability 
-  of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization' and 'Security-Aware Approximate Spiking Neural Network' with an acceptance rate of 25%."
+  of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization' and 'Security-Aware Approximate Spiking Neural Network' with an acceptance rate of 25%.
+  <br> See [Preprint paper 1] (https://arxiv.org/abs/2301.05266), [Preprint paper 2](https://arxiv.org/abs/2301.05264), [MU news](https://engineering.missouri.edu/2023/team-to-present-work-around-spiking-neural-networks-at-date-conference/)."
 
 - date: October 2022
   headline: "Our paper titled 'Detection of Security and Privacy Attacks Disrupting User Immersive Experience in Virtual Reality Learning Environments' has been accepted for publication in the IEEE Transactions on Services Computing (IEEE TSC) Journal (IF 11.02).
-  <br> See [Preprint](https://www.researchgate.net/publication/364380422_Detection_of_Security_and_Privacy_Attacks_Disrupting_User_Immersive_Experience_in_Virtual_Reality_Learning_Environments)."
+  <br> See [Preprint](https://ieeexplore.ieee.org/abstract/document/9963687)."
 
 - date: September 2022
   headline: "Our paper titled 'TruVR: Trustworthy Cybersickness Detection using Explainable Machine Learning' has been accepted in the 21st IEEE International Symposium on Mixed and Augmented Reality (ISMAR 22) conference (core rank A*).
