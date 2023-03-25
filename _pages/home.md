@@ -52,10 +52,9 @@ The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anu
 To this end, we conduct <b> interdisciplinary research </b> to answer the scientific questions we deem most important, specifically in the following areas (see [Research](research)).
 
 <ul style="list-style-type:disc;">
-<li>Formal method in robotics and automation.</li>
-<li>Fault tolerant, secure and energy-efficient ML/AI hardware. </li>    
-<li>Cybersecurity issues in virtual reality (VR) applications.</li>
-<li>Cybersecurity issues in intelligent prognostics.  </li>    
+<li>Formal methods (model checking and runtime monitoring) in robotics and automation.</li>
+<li>Reliable, secure and energy-efficient ML/AI hardware. </li>    
+<li>Safe, secure, and trustworthy virtual reality (VR) applications.</li>   
 </ul>
 
 
