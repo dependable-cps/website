@@ -7,8 +7,8 @@ permalink: /publications/
 ---
 
 # Publications
-(For an **UPDATED** list of publications, please see our [Google Scholar](https://scholar.google.com/citations?user=eJ87TzoAAAAJ&hl=en))
-<script src="https://bibbase.org/show?bib=diner007.github.io%2Fref.bib&jsonp=1"></script>
+(For an **UPDATED** list of publications, please see our [Google Scholar](https://scholar.google.com/citations?hl=en&user=eJ87TzoAAAAJ&view_op=list_works&sortby=pubdate))
+
 <br>
 
 
