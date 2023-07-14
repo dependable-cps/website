@@ -1,28 +1,42 @@
+- date: July 2023
+  headline: "Two papers from our lab have been accepted in the 21st ACM-IEEE International Symposium on Formal Methods and Models for System Design (MEMOCODE 2023) titled 'Model Checking Time Window Temporal Logic for Hyperproperties' and 'QTWTL: Quality Aware Time Window Temporal Logic for Performance Monitoring'.
+  <br> Preprints will be available soon."
+
+ - date: May 2023
+  headline: "Prof. Hoque has received the 2023 EECS Junior Faculty Excellence in Research Award award from the College of Engineering, MU.
+  <br> See [EECS news](https://engineering.missouri.edu/2023/eecs-department-recognizes-outstanding-faculty-students/)." 
+
+- date: May 2023
+  headline: "MU news bureau published an article today featuring our recent efforts in introducing explainable AI (XAI) to the AR/VR domain.
+  <br> See [MU news](https://showme.missouri.edu/2023/explainable-ai-can-efficiently-detect-ar-vr-cybersickness/)."   
+
+- date: March 2023
+  headline: "Our paper titled 'Motion Planning using Hyperproperties for Time Window Temporal Logic' has been accepted for publication and is now available for in the IEEE Robotics and Automation
+  Letters (RA-L) journal (IF 5.2). <br> See [Early access](https://ieeexplore.ieee.org/abstract/document/10137643)."
+
 - date: January 2023
   headline: "Our paper titled 'Exposing Reliability Degradation and Mitigation in Approximate DNNs under Permanent Faults' has been accepted for publication in the IEEE Transactions on Very Large Scale Integration (VLSI) Systems Journal (IF 2.775).
-  <br> See [Preprint](https://arxiv.org/abs/2301.07484)."
+  <br> See [Preprint](https://arxiv.org/abs/2301.07484), [Paper](https://ieeexplore.ieee.org/abstract/document/10028723)."
 
 - date: January 2023
-  headline: "Our paper titled 'VR-LENS: Super Learning-based Cybersickness Detection and Explainable AI-Guided Deployment in Virtual Reality' has been accepted for publication in the annual ACM Conference on Intelligent User Interfaces (AM IUI) conference (core rank A).
-  <br> Preprint will be available soon."
+  headline: "Our paper titled 'VR-LENS: Super Learning-based Cybersickness Detection and Explainable AI-Guided Deployment in Virtual Reality' has been accepted for publication in the annual ACM Conference on Intelligent User Interfaces (AM IUI 2023) conference (core rank A).
+  <br> See [Paper](https://dl.acm.org/doi/abs/10.1145/3581641.3584044)."
 
 - date: December 2022
-  headline: "Our paper titled 'LiteVR: Interpretable and Lightweight Cybersickness Detection using Explainable AI' has been accepted for publication in the IEEE Virtual Reality (IEEE VR) conference (core rank A*).
-  <br> Preprint will be available soon."
+  headline: "Our paper titled 'LiteVR: Interpretable and Lightweight Cybersickness Detection using Explainable AI' has been accepted for publication in the IEEE Virtual Reality (IEEE VR 2023) conference (core rank A*).
+  <br> See [Paper](https://ieeexplore.ieee.org/abstract/document/10108450)."
 
 - date: November 2022
   headline: "Two papers from our lab have been accepted in the Design, Automation and Test in Europe (DATE 2023) Conference titled 'Improving Reliability 
   of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization' and 'Security-Aware Approximate Spiking Neural Network' with an acceptance rate of 25%.
   <br> See [Preprint 1](https://arxiv.org/abs/2301.05264), [Preprint 2](https://arxiv.org/abs/2301.05266), [MU news](https://engineering.missouri.edu/2023/team-to-present-work-around-spiking-neural-networks-at-date-conference/)."
 
-  
-
 - date: October 2022
   headline: "Our paper titled 'Detection of Security and Privacy Attacks Disrupting User Immersive Experience in Virtual Reality Learning Environments' has been accepted for publication in the IEEE Transactions on Services Computing (IEEE TSC) Journal (IF 11.02).
   <br> See [Preprint](https://ieeexplore.ieee.org/abstract/document/9963687)."
 
 - date: September 2022
-  headline: "Our paper titled 'TruVR: Trustworthy Cybersickness Detection using Explainable Machine Learning' has been accepted in the 21st IEEE International Symposium on Mixed and Augmented Reality (ISMAR 22) conference (core rank A*).
+  headline: "Our paper titled 'TruVR: Trustworthy Cybersickness Detection using Explainable Machine Learning' has been accepted in the 21st IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2022) conference (core rank A*).
   <br> See [Preprint](https://arxiv.org/abs/2209.05257), [MU news](https://engineering.missouri.edu/mizzou-engineering-team-using-explainable-machine-learning-to-combat-cybersickness/)."
 
 - date: March 2022
@@ -30,7 +44,7 @@
   Letters (RA-L) journal (IF 5.43). <br> See [Early access](https://ieeexplore.ieee.org/document/9738484)."
 
 - date: February 2022
-  headline: "Prof. Hoque has received the Junior Faculty Excellence in Teaching award from the College of Engineering, MU.
+  headline: "Prof. Hoque has received the 2022 Junior Faculty Excellence in Teaching award from the College of Engineering, MU.
   <br> See [MU news](https://engineering.missouri.edu/college-recognizes-outstanding-faculty-staff-students/)."
 
 - date: November 2021
