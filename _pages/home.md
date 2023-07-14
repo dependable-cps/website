@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anuarul Hoque](https://www.kahoque.com) and located in the F. Robert & Patricia Naka Hall building at University of Missouri-Columbia. The research mission of the DCPS Laboratory is to develop theory, methods, and tools for supporting modeling, design, and (formal) verification of highly dependable embedded and cyber-physical systems (CPS). Specifically, the goal of DCPS lab is to enhance the reliability, safety, security and energy efficiency of complex computing systems.
+The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anuarul Hoque](https://www.kahoque.com) and located in the F. Robert & Patricia Naka Hall building at University of Missouri-Columbia. The research mission of the DCPS Laboratory is to develop theory, methods, and tools for supporting modeling, design, and (formal) verification of highly dependable embedded and cyber-physical systems (CPS). Specifically, the goal of DCPS lab is to enhance the reliability, safety, security, trustworthiness, and energy efficiency of complex computing systems.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -61,9 +61,9 @@ The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anu
 To this end, we conduct <b> interdisciplinary research </b> to answer the scientific questions we deem most important, specifically in the following areas (see [Research](research)).
 
 <ul style="list-style-type:disc;">
-<li>Formal methods (model checking and runtime monitoring) in robotics and automation.</li>
-<li>Reliable, secure and energy-efficient ML/AI hardware. </li>    
-<li>Safe, secure, and trustworthy virtual reality (VR) applications.</li>   
+<li>Formal methods in robotics and automation (model checking and runtime monitoring).</li>
+<li>Safe, secure and energy-efficient ML/AI for embedded hardware. </li>    
+<li>Explainable AI for trustworthy virtual reality (VR) applications.</li>   
 </ul>
 
 
