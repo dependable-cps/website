@@ -1,19 +1,3 @@
-- date: July 2023
-  headline: "Two papers from our lab have been accepted in the 21st ACM/IEEE International Symposium on Formal Methods and Models for System Design (MEMOCODE 2023) titled 'Model Checking Time Window Temporal Logic for Hyperproperties' and 'QTWTL: Quality Aware Time Window Temporal Logic for Performance Monitoring'.
-  <br> Preprints will be available soon."
-
- - date: May 2023
-  headline: "Prof. Hoque has received the 2023 EECS Junior Faculty Excellence in Research Award award from the College of Engineering, MU.
-  <br> See [EECS news](https://engineering.missouri.edu/2023/eecs-department-recognizes-outstanding-faculty-students/)." 
-
-- date: May 2023
-  headline: "MU news bureau published an article today featuring our recent efforts in introducing explainable AI (XAI) to the AR/VR domain.
-  <br> See [MU news](https://showme.missouri.edu/2023/explainable-ai-can-efficiently-detect-ar-vr-cybersickness/)."   
-
-- date: March 2023
-  headline: "Our paper titled 'Motion Planning using Hyperproperties for Time Window Temporal Logic' has been accepted for publication and is now available for in the IEEE Robotics and Automation
-  Letters (RA-L) journal (IF 5.2). <br> See [Early access](https://ieeexplore.ieee.org/abstract/document/10137643)."
-
 - date: January 2023
   headline: "Our paper titled 'Exposing Reliability Degradation and Mitigation in Approximate DNNs under Permanent Faults' has been accepted for publication in the IEEE Transactions on Very Large Scale Integration (VLSI) Systems Journal (IF 2.775).
   <br> See [Preprint](https://arxiv.org/abs/2301.07484), [Paper](https://ieeexplore.ieee.org/abstract/document/10028723)."
