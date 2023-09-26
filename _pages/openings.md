@@ -7,27 +7,22 @@ permalink: /vacancies
 ---
 
 # Open positions
-
-**Update 1: We will have an opening in Fall 2023 related to our 'Formal method in robotics' project. We are looking for a potential candidate who has the background/research experience in temporal logic (LTL, STL, Hyperproperties) and optimization with strong programming skills. Feel free to get in touch if this matches your background.**
-
-**Note: We recently finished hiring new PhD students and currently don't have funding for additional/new PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. New positions are updated on this page, so please check again in the future**
-
-## Past open positions
-Funded Ph.D. positions are available for Spring 2021 in EECS department at the University of Missouri, Columbia, USA under the supervision of Prof. Khaza Anuarul Hoque. The research project will focus on the development of formal verification based techniques for designing dependable and safe cyber-physical systems.
+One funded Ph.D. position is available for Summer/Fall 2024 in the Dependable Cyber-Physical Systems (DCPS) Laboratory of the EECS department at the University of Missouri, Columbia, USA, under the supervision of Prof. Khaza Anuarul Hoque. The research project is related to the ongoing Formal method in robotics project in the lab. Please read the following paper to get a heads-up on the project:
+Bonnah, Ernest, Luan Viet Nguyen, and Khaza Anuarul Hoque. "Model Checking Time Window Temporal Logic for Hyperproperties." arXiv preprint arXiv:2308.02554 (2023).
 
 Established in 1849, the University of Missouri College of Engineering’s excellence includes nine disciplines, 130 faculty members, more than 3,300 of the brightest undergraduates on campus and more than 600 exceptional graduate students at the flagship campus of the UM System. Electrical engineering at MU was established in 1884 – the first electrical engineering program in the nation. Located in the heart of Missouri, the College of Engineering at Mizzou operates the University of Missouri Research Reactor, the most powerful nuclear research reactor on a university campus nationwide.
 
-Successful candidates will receive financial support as Research/Teaching Assistants (RAs/TAs), and will also be awarded full tuition waiver. Candidates with expertise in one or more of the following priority areas are especially encouraged to apply.
+Successful candidates will receive financial support as Research/Teaching Assistants (RAs/TAs) and be awarded a full tuition waiver with health insurance benefits. Candidates with expertise in the following areas are especially encouraged to apply.
 
 Requirements:
 
-1. Excellent academic results in B.Sc/M.Sc. with major in computer science/electrical engineering. The exact admission requirements are available [here](https://gradstudies.missouri.edu/degreecategory/electrical-and-computer-engineering/).
+1. Good academic results in B.Sc/M.Sc. with a computer science/engineering major. Knowledge of formal verification/automata theory (especially model checking, SAT/SMT solving) is required.. The exact admission requirements are available [here](https://gradstudies.missouri.edu/degreecategory/electrical-and-computer-engineering/).
 
-2. Strong background in mathematics (e.g. stochastic modeling, Markov chain) is required. Knowledge of formal verification/automata theory (especially, model checking) will be counted as a strong plus, but not mandatory. 
+2. A candidate with background/research experience in temporal logic (LTL, STL, MTL) and reinforcement learning will get the highest priority.  
 
-3. Strong programming skills (C/C++, Python) is required. Good understanding of graph theory, dynamic programming, machine learning and optimization techniques are also mandatory.
+3. Strong programming skills (C/C++, Python) are required. A good understanding of graph theory, dynamic programming, machine learning, and optimization techniques is a plus.
 
-The interested candidates are suggested to send an email to Prof. Hoque including (1) an email that expresses your interest to the specific research topic, and demonstrate how you meet the above-mentioned requirements, and (2) your curriculum vitae, including a list of publications (if any).
+The interested candidates are suggested to send an email to Prof. Hoque (hoquek@missouri.edu) with the subject line "About the Ph.D. Position in FM and Robotics," including (1) describing your interest in the specific research topic and demonstrating how you meet the above-mentioned requirements and (2) your curriculum vitae, including a list of publications (if any).
 
 Note: Due to large volume of emails, I cannot reply to every email, but I will do my best to reply to competitive applicants.
 
