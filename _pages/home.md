@@ -27,9 +27,6 @@ The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anu
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic1.jpg" alt="Slide 1" width="600" height="350"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic2.png" alt="Slide 2" width="600" height="350"/>
-        </div>
-        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic3.png" alt="Slide 3" width="600" height="350"/>
         </div>
        <div class="item">
@@ -69,7 +66,7 @@ To this end, we conduct <b> interdisciplinary research </b> to answer the scient
 
 <br> We are grateful for funding from National Science Foundation (NSF), United States Army Reserch Laboratory (ARL), and Naval Research Laboratory (NRL).
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 120px;>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRL.png" style="width: 125px;>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_devcom.png" style="width: 125px;>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" width="120">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRL.png" width="125">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_devcom.png" width="125">
 
