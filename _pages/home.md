@@ -30,19 +30,19 @@ The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anu
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic2.png" alt="Slide 2" width="600" height="350"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic3.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic3.png" alt="Slide 3" width="600" height="350"/>
         </div>
        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic4.jpg" alt="Ramadan Iftaar 2022" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic4.jpg" alt="Ramadan Iftaar 2022" width="600" height="350"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic5.jpg" alt="Slide 5" width="600" height="350"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic6.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic6.jpg" alt="Slide 6" width="600" height="350"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic7.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic7.jpg" alt="Slide 7" width="600" height="350"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
