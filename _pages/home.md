@@ -63,7 +63,7 @@ To this end, we conduct <b> interdisciplinary research </b> to answer the scient
 <ul style="list-style-type:disc;">
 <li>Formal methods in robotics and automation (model checking and runtime monitoring).</li>
 <li>Safe, secure and energy-efficient ML/AI for embedded hardware. </li>    
-<li>Explainable AI for trustworthy virtual reality (VR) applications.</li>   
+<li>Explainable AI for trustworthy augmented/virtual reality (AR/VR) applications.</li>   
 </ul>
 
 
