@@ -69,3 +69,5 @@ To this end, we conduct <b> interdisciplinary research </b> to answer the scient
 
 <br> We are grateful for funding from National Science Foundation (NSF), United States Army Reserch Laboratory (ARL), and Naval Research Laboratory (NRL).
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
