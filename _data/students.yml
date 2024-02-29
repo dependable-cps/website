@@ -13,8 +13,8 @@
   info: PhD student (Spring 2020-date)  
   email: eb7z3@umsystem.edu
   number_educ: 4
-  education1: Research focus- Formal mehods, Temporal logic, Autonomous systems
-  education2: Awards- EECS excellence fellowship, Bies International Travel Scholarship, ACM/IEEE MEMOCODE Best paper nomination.
+  education1: Research focus: Formal mehods, Temporal logic, Autonomous systems
+  education2: Awards: EECS excellence fellowship, Bies International Travel Scholarship, ACM/IEEE MEMOCODE Best paper nomination
   education3: MSc in Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, Ghana
   education4: BSc in Computer Engineering, Kwame Nkrumah University of Science and Technology, Ghana
 
@@ -22,22 +22,28 @@
   photo: Ayesha.jpeg
   info: PhD student (Spring 2020-date)
   email: asgr5@umsystem.edu
-  number_educ: 2
-  education1: MSc in Electrical Engineering, National University of Sciences and Technology, Pakistan
-  education2: BSc in Electrical Engineering, Army Public College of Management and Sciences, Pakistan
+  number_educ: 4
+  education1: Research focus: AI hardware, Approximate computing, Fault tolerant hardware
+  education2: Awards: DAC Richard Newton young student fellowship, CoE outstanding PhD student
+  education3: MSc in Electrical Engineering, National University of Sciences and Technology, Pakistan
+  education4: BSc in Electrical Engineering, Army Public College of Management and Sciences, Pakistan
   
 - name: Ripan Kumar Kundu
   photo: Ripan.jpg
   info: PhD student (Spring 2022-date)
   email: rkcgc@missouri.edu
-  number_educ: 2
-  education1: MSc in Electrical Engineering, University of Rostock, Germany
-  education2: BSc in Electrical Engineering, American International University-Bangladesh, Bangladesh  
+  number_educ: 4
+  education1: Research focus: Trustworthy AI/ML, Safety, security, and privacy in extended reality (XR)
+  education2: Awards: IUI/NSF conference travel fellowship, EECS conference travel fellowship, CoE outstanding PhD student
+  education3: MSc in Electrical Engineering, University of Rostock, Germany
+  education4: BSc in Electrical Engineering, American International University-Bangladesh, Bangladesh  
   
 - name: Amjad Falih Hasan 
   photo: Amjad.png
   info: PhD student (Spring 2023-date)
   email: afhmr6@missouri.edu
-  number_educ: 1
-  education1: BSc in Electrical Engineering, University of Technology, Iraq
+  number_educ: 3
+  education1: Research focus: Formal method, explainable motion planning
+  education2: M.Sc. in Electrical Engineering, University of Missouri, Columbia
+  education3: BSc in Electrical Engineering, University of Technology, Iraq
   
