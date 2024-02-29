@@ -10,11 +10,13 @@
 
 - name: Ernest Bonnah
   photo: Ernest.jpg
-  info: PhD student (Spring 2020-date)  <br> Formal mehods, Temporal logic, Autonomous systems. <br> EECS excellence fellowship, Bies International Travel Scholarship, ACM/IEEE MEMOCODE Best paper nomination.
+  info: PhD student (Spring 2020-date)  
   email: eb7z3@umsystem.edu
-  number_educ: 2
-  education1: MSc in Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, Ghana
-  education2: BSc in Computer Engineering, Kwame Nkrumah University of Science and Technology, Ghana
+  number_educ: 4
+  education1: Research focus- Formal mehods, Temporal logic, Autonomous systems
+  education2: Awards- EECS excellence fellowship, Bies International Travel Scholarship, ACM/IEEE MEMOCODE Best paper nomination.
+  education3: MSc in Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, Ghana
+  education4: BSc in Computer Engineering, Kwame Nkrumah University of Science and Technology, Ghana
 
 - name: Ayesha Siddique
   photo: Ayesha.jpeg
