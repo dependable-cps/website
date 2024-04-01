@@ -27,6 +27,9 @@ The Dependable Cyber-Physical Systems (DCPS) lab is directed by Prof. [Khaza Anu
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic1.jpg" alt="Slide 1" width="600" height="350"/>
         </div>
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic2.png" alt="Outstanding PhD student award 2024" width="600" height="350"/>
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic3.png" alt="Slide 3" width="600" height="350"/>
         </div>
        <div class="item">
