@@ -38,14 +38,14 @@
   education3: MSc in Electrical Engineering, University of Rostock, Germany
   education4: BSc in Electrical Engineering, American International University-Bangladesh, Bangladesh  
   
-- name: Amjad Falih Hasan 
-  photo: Amjad.png
-  info: PhD student (Spring 2023-date)
-  email: afhmr6@missouri.edu
+- name: Khurram Khalil 
+  photo: Khurram.jpeg
+  info: PhD student (Fall 2024-date)
+  email: kkfdh@missouri.edu
   number_educ: 3
-  education1: Research focus- Formal method, explainable motion planning
-  education2: M.Sc. in Electrical Engineering, University of Missouri, Columbia
-  education3: BSc in Control and Systems Engineering, University of Technology, Iraq
+  education1: Research focus- AI hardware, Approximate computing, Fault tolerant hardware.
+  education2: M.Sc. in Robotics and Intelligent Machine Engineering, National University of Science and Technology, Pakistan
+  education3: BSc in International Islamic University, Islamabad.
 
 - name: Osama Elsaid
   photo: osama.jpg
