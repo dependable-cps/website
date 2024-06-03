@@ -1,7 +1,17 @@
+- name: Ernest Bonnah
+  photo: Ernest.jpg
+  duration: PhD student (Spring 2020-Spring 2024)  
+  info: Assistant Professor (Tenure-track), Baylor University, TX
+  number_educ: 4
+  education1: Research focus- Formal mehods, Temporal logic, Autonomous systems
+  education2: Awards- EECS excellence fellowship, Bies International Travel Scholarship, ACM/IEEE MEMOCODE Best paper nomination
+  education3: MSc in Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, Ghana
+  education4: BSc in Computer Engineering, Kwame Nkrumah University of Science and Technology, Ghana
+
 - name: Samaikya Valluripally
   photo: sv.jpg
   duration: PhD student (2018 - 2020, co-supervised student)
-  info: Currently security researcher at the Intel Corporation
+  info: Security researcher at the Intel Corporation
   email: samaikyavalluripally@gmail.com
   number_educ: 1
   education1: Leidse instrumentmakers School
