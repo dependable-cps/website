@@ -8,7 +8,7 @@ permalink: /team/
 
 # DCPS Lab Members
 
-Jump to [Director](#director), [Students](#graduate and undergraduate students), [Alumni (Former Graduate Students)](#alumni), [Lab visitors](#former undergraduate and internship students).
+Jump to [Director](#director), [Students](#graduate and undergraduate students), [Alumni](#alumni (Former Graduate Students)), [Lab visitors](#former undergraduate and internship students).
 
 ## Director
 {% assign number_printed = 0 %}
