@@ -1,3 +1,13 @@
+- name: Ayesha Siddique
+  photo: Ayesha.jpeg
+  duration: PhD student (Spring 2020-Spring 2024)
+  info: Assistant Professor (Tenure-track), University of Maine, ME
+  number_educ: 4
+  education1: Research focus- AI hardware, Approximate computing, Fault tolerant hardware
+  education2: Awards- DAC Richard Newton young student fellowship, CoE outstanding PhD student
+  education3: MSc in Electrical Engineering, National University of Sciences and Technology, Pakistan
+  education4: BSc in Electrical Engineering, Army Public College of Management and Sciences, Pakistan
+
 - name: Ernest Bonnah
   photo: Ernest.jpg
   duration: PhD student (Spring 2020-Spring 2024)  
