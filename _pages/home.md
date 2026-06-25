@@ -72,4 +72,5 @@ To this end, we conduct <b> interdisciplinary research </b> to answer the scient
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" width="150">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRL.png" width="155">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_devcom.png" width="225">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia.jpg" width="150">
 
